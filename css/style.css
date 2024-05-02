@@ -1,0 +1,24 @@
+#drawingArea {
+    border-style: solid;
+    position: absolute;
+    top: 0px;
+    left: 160px;
+}
+#storageArea {
+    border-style: solid;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+#avArea {
+    border-style: solid;
+    position: absolute;
+    top: 0px;
+    left: 960px;
+}
+#download {
+    border-style: solid;
+    position: absolute;
+    top: 810px;
+    left: 960px;
+}
